@@ -1,1 +1,1 @@
-# This repo contains a implementation of a web service in SOAP
+This services is the core service and will handle all request in our virtual bank and call the appropriate service.
